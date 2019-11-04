@@ -29,6 +29,14 @@
             "deleteUpdateCustomer", 
             "deleteUpdateCustomer.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "addCustomer", 
+            "addCustomer.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -43,7 +51,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "deleteUpdateCustomer", 
+      "firstform": "seeCustomers", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
