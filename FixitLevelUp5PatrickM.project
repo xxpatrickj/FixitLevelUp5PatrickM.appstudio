@@ -18,8 +18,8 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Form1", 
-            "Form1.json"
+            "seeCustomers", 
+            "seeCustomers.json"
           ]
         }
       ], 
@@ -35,7 +35,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form1", 
+      "firstform": "seeCustomers", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
